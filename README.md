@@ -25,3 +25,8 @@ The project is divided into the following tasks:
 ## Dataset
 
 The dataset used in this project is the Boston Housing dataset. It includes various variables related to housing in Boston, such as crime rate, average number of rooms, age of houses, and more.
+
+## Usage
+   - Open the final_project.ipynb notebook to explore the analysis and results.
+## Acknowledgments
+   - Statistics for Data Science with Python IBM Final Project
